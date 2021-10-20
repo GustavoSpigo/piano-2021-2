@@ -13,7 +13,6 @@ public class Tecla : MonoBehaviour
     private void OnMouseDown()
     {
         audioS.Play();
-        GetComponent<Ma>
     }
 
     private void OnMouseUp()
